@@ -1,0 +1,2 @@
+document.getElementById('xyz').play();
+alert("Alerta");
